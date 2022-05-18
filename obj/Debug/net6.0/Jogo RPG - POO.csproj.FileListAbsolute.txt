@@ -1,0 +1,15 @@
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\bin\Debug\net6.0\Jogo RPG - POO.exe
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\bin\Debug\net6.0\Jogo RPG - POO.deps.json
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\bin\Debug\net6.0\Jogo RPG - POO.runtimeconfig.json
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\bin\Debug\net6.0\Jogo RPG - POO.dll
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\bin\Debug\net6.0\ref\Jogo RPG - POO.dll
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\bin\Debug\net6.0\Jogo RPG - POO.pdb
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\obj\Debug\net6.0\Jogo RPG - POO.csproj.AssemblyReference.cache
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\obj\Debug\net6.0\Jogo RPG - POO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\obj\Debug\net6.0\Jogo RPG - POO.AssemblyInfoInputs.cache
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\obj\Debug\net6.0\Jogo RPG - POO.AssemblyInfo.cs
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\obj\Debug\net6.0\Jogo RPG - POO.csproj.CoreCompileInputs.cache
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\obj\Debug\net6.0\Jogo RPG - POO.dll
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\obj\Debug\net6.0\ref\Jogo RPG - POO.dll
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\obj\Debug\net6.0\Jogo RPG - POO.pdb
+E:\Area de Trabalho\faculdade\CURSOS DIO\Jogo RPG - POO\obj\Debug\net6.0\Jogo RPG - POO.genruntimeconfig.cache
